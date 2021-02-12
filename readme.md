@@ -20,7 +20,7 @@ como COMPOSER AUTOLOAD e ENV LOAD FILE ver (index.php)
 ## Instalação e instruções
 
 - composer install
-- criar o banco de dados bd_teste e importar o dump.sql contendo a tabela usuarios de exemplo
+- criar o banco de dados bd_teste e importar o usuario.sql que esta no diretório /dump na raiz do projeto
 - acessar a url http://localhost/login-jwt
 - informar o e-mail fabiovige@gmail.com e a senha 123456
 
