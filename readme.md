@@ -24,9 +24,9 @@ como COMPOSER AUTOLOAD e ENV LOAD FILE ver (index.php)
 - acessar a url http://localhost/login-jwt
 - informar o e-mail fabiovige@gmail.com e a senha 123456
 
-### Codeigniter 3 utilizando .env
+## Codeigniter 3 utilizando .env
 
-- Na raiz do projeto teremos os arquivos 
+### Na raiz do projeto teremos os arquivos 
 * env-development - para o ambiente de desenvolvimento
 * env-testing - para o ambiente de homologacao
 * env-product - para o ambiente de producao
