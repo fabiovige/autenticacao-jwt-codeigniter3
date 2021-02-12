@@ -1,0 +1,24 @@
+ERROR - 2020-11-07 18:33:30 --> $config['composer_autoload'] is set to TRUE but /var/www/html/diario/application/vendor/autoload.php was not found.
+DEBUG - 2020-11-07 18:33:30 --> UTF-8 Support Enabled
+DEBUG - 2020-11-07 18:33:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-11-07 18:33:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2020-11-07 18:33:30 --> Severity: Core Warning --> Module 'mongodb' already loaded Unknown 0
+ERROR - 2020-11-07 18:33:30 --> $config['composer_autoload'] is set to TRUE but /var/www/html/diario/application/vendor/autoload.php was not found.
+DEBUG - 2020-11-07 18:33:30 --> UTF-8 Support Enabled
+DEBUG - 2020-11-07 18:33:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-11-07 18:33:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2020-11-07 18:33:30 --> $config['composer_autoload'] is set to TRUE but /var/www/html/diario/application/vendor/autoload.php was not found.
+DEBUG - 2020-11-07 18:33:30 --> UTF-8 Support Enabled
+DEBUG - 2020-11-07 18:33:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-11-07 18:33:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-11-07 18:33:30 --> Total execution time: 0.0064
+ERROR - 2020-11-07 18:33:34 --> $config['composer_autoload'] is set to TRUE but /var/www/html/diario/application/vendor/autoload.php was not found.
+DEBUG - 2020-11-07 18:33:34 --> UTF-8 Support Enabled
+DEBUG - 2020-11-07 18:33:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-11-07 18:33:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-11-07 18:33:34 --> LOGIN > id: 4565 nome: FERNANDA DIAS PEREIRA data: 2020-11-07 18:33:34
+ERROR - 2020-11-07 18:33:34 --> $config['composer_autoload'] is set to TRUE but /var/www/html/diario/application/vendor/autoload.php was not found.
+DEBUG - 2020-11-07 18:33:34 --> UTF-8 Support Enabled
+DEBUG - 2020-11-07 18:33:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-11-07 18:33:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-11-07 18:33:34 --> Total execution time: 0.0168
