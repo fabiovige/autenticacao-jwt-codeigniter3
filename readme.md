@@ -24,11 +24,11 @@ como COMPOSER AUTOLOAD e ENV LOAD FILE ver (index.php)
 * env-testing - para o ambiente de homologacao
 * env-product - para o ambiente de producao
 
-Basta alterar o arquivo index.php da raiz para convigurar o ambiente de desenvolvimento. O padrão está como (development)
+Basta alterar o arquivo index.php da raiz para configurar o ambiente de desenvolvimento. O padrão está como (development)
 
 
 ## License
 
 MIT license
 
-Copyright © 2021 - fabiovige
+Copyright © 2021 - fabiovige.com.br
