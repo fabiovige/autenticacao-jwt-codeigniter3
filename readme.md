@@ -5,6 +5,13 @@ Este projeto é um exemplo simples de como implementar um teste simples e seguro
 Neste projeto estou utilizando o Framework Codeigniter 3 com algumas alterações para atender minha necessidade
 como COMPOSER AUTOLOAD e ENV LOAD FILE ver (index.php)
 
+- Utilização de gerenciamento com composer
+- Pacote Firebase\JWT para geração do token de autenticação
+- Utilização do git para versionamento
+- Codeigniter 3 com LOAD ENV e COMPOSER integrados
+- Design Patterns MVC
+- Criação de um service(AuthenticateUserService) somente para autenticação separando a regra do controller
+
 ## Requerimento
 
 * "composer"
